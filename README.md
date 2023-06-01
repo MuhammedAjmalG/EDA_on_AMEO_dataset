@@ -1,11 +1,8 @@
-# EDA_on_AMEO_dataset
-This is an Exploratory Data Analysis Performed on a AMEO dataset
+# EDA on AMEO Dataset
+This project focuses on performing Exploratory Data Analysis (EDA) on the AMEO dataset. The dataset contains valuable information that requires in-depth analysis and insights.
 
-AMEO_2015_Data_Description.pdf
-This file contains the description of the dataset
+# Project Overview
+In this project, we dive into the AMEO dataset to gain a comprehensive understanding of its contents. Through exploratory data analysis techniques, we extract meaningful insights, discover patterns, and uncover relationships within the data. The goal is to provide a detailed exploration of the dataset and identify key findings.
 
-Task - 2 (new).docx
-This file contains the tasks to perform.
-
-eda.ipynb
-This is the file that contains the tasks
+# Resources
+For detailed information about the dataset and the specific tasks, please refer to the AMEO_2015_Data_Description.pdf and Task - 2 (new).docx files provided.
